@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=chri-mc-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contrib-stats.vercel.app/api?username=chri-mc-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=chri-mc-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chri-mc-tech&icon=0&color=0)](https://visitcount.itsvg.in)
