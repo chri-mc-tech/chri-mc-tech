@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building a multiplayer game in C++ with a custom client-server system, using SDL3 and ENet, and experimenting with 2D rendering.<br>🤝 Open to collaboration on C++ projects.<br>👐 Not actively looking for help, but always open to technical discussions and optimization ideas.<br>🌱 Currently improving my C++ skills, studying networking security (Diffie-Hellman key exchange, encryption), and deepening my Linux knowledge.<br>💬 Ask me about Linux systems, VPS management, game networking, Unreal Engine, or Minecraft servers.<br>⚡ Fun fact: I live in Northern Italy, i run servers, build games, and prefer understanding how things work under the hood rather than just using them.
+👐 Not actively looking for help, but always open to technical discussions and optimization ideas.<br>🌱 Currently improving my C++ skills, studying networking security, and deepening my Linux knowledge.<br>💬 Ask me about Linux systems, VPS management, game networking, Unreal Engine, or Minecraft servers.<br>⚡ Fun fact: I live in Northern Italy, i run servers, build games, and prefer understanding how things work under the hood rather than just using them.
 
 
 ## 🌐 Socials:
